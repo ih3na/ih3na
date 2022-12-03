@@ -2,7 +2,7 @@
 $> Hey, I'm ih3na. I am a Bug-bounty hunter / Web-developer / Digital content creator.<br>$> I'm good at Python JavaScript and Linux.<br>$> Fun fact, I use Arch btw :)
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@ih3na)  [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@ih3na)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ih3na) 
 
 # 💻 Tech Stack:
