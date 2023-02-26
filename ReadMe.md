@@ -1,5 +1,5 @@
 # 💫 About Me:
-$> Hey, I'm ih3na. I am a Bug-bounty hunter / Web-developer / Digital content creator.<br>$> I'm good at Python JavaScript and Linux.<br>$> Fun fact, I use Arch btw :)
+$> Hey, I'm Irusha. I am a Bug-bounty hunter / Web-developer / Digital content creator.<br>$> I'm good at Python JavaScript and Linux.<br>$> Fun fact, I use Arch btw :)
 
 
 # 🌐 Socials:
