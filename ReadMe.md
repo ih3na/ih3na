@@ -6,8 +6,4 @@ $> Hey, I'm Irusha. I am a Bug-bounty hunter / Web-developer / Digital content c
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ih3na&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ih3na&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ih3na&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=ih3na&icon=1&color=0)](https://visitcount.itsvg.in)
-  <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ih3na&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
